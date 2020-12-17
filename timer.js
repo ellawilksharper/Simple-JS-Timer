@@ -1,4 +1,4 @@
-let startTiming = 0.2
+let startTiming = 20
 let time = startTiming * 60
 let isNegative = false;
 
